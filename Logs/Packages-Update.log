@@ -1,0 +1,9 @@
+
+=== Thu Nov  4 22:46:51 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.test-framework from version 1.1.9 to 1.1.11
+  com.unity.timeline from version 1.2.10 to 1.2.12
